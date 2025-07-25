@@ -1,0 +1,13 @@
+{
+  "name": "nosql-injection-demo",
+  "version": "1.0.0",
+  "description": "Demo de NoSQL Injection con MongoDB y Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.0"
+  }
+}
